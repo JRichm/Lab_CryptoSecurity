@@ -1,0 +1,59 @@
+use the first 26 digits of pi
+31415926535897932384626433
+
+
+ i love cryptography!
+|____________________|
+    20 characters
+
+encoder will use pi, starting at the 20th digit
+
+		     i love  cryptography!
+ 31415926535897932384626433 31415926535897932384626433
+|____________________|
+    20 characters
+
+each charachter of the message will shift by the length of the message plus the digit of pi it is related to
+
+	'i' + 20 + 6 =
+	' ' + 20 + 2 =
+
+
+
+çì|çÆìèëÇëzîàö
+ntcnytqpgpzsl{
+
+JMntcBnytqpgpzsl
+
+
+
+encryption steps
+I
+
+
+FKip`_jx
+FKhpyAjxohnakwnd
+FKnvfApeuntgqdtj
+FKowgAqevouhrduk
+
+FKn]fApe\ntgqdtj
+
+
+JMntcBnytqpgpzsl
+
+
+JMnvfBpeuntgqdtj
+JMnvfBpeuntgqdt
+JMowgBqevou
+
+JMntcBnytqpgpzsl
+
+ILms
+
+PStziEwavdrnxevq
+
+ILo
+
+
+
+
